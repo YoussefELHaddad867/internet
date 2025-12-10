@@ -1,0 +1,5 @@
+À ce stade, vous vous demandez peut-être comment fonctionne Internet ? La réponse exacte est assez compliquée et il faudrait du temps à expliquer. À la place, examinons quelques-unes des choses les plus importantes que vous devriez savoir.
+
+Il est important de comprendre qu’Internet est un réseau mondial de câbles physiques, qui peut inclure des fils téléphoniques en cuivre, des câbles TV et des câbles à fibre optique. Même les connexions sans fil comme le Wi-Fi et la 3G/4G dépendent de ces câbles physiques pour accéder à Internet.
+
+Lorsque vous visitez un site web, votre ordinateur envoie une requête via ces fils à un serveur. Un serveur est l’endroit où les sites web sont stockés, et il fonctionne un peu comme le disque dur de votre ordinateur. Une fois la requête reçue, le serveur récupère le site web et renvoie les bonnes données à votre ordinateur. Ce qui est incroyable, c’est que tout cela se passe en seulement quelques secondes !
