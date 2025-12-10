@@ -3,3 +3,13 @@
 Il est important de comprendre qu’Internet est un réseau mondial de câbles physiques, qui peut inclure des fils téléphoniques en cuivre, des câbles TV et des câbles à fibre optique. Même les connexions sans fil comme le Wi-Fi et la 3G/4G dépendent de ces câbles physiques pour accéder à Internet.
 
 Lorsque vous visitez un site web, votre ordinateur envoie une requête via ces fils à un serveur. Un serveur est l’endroit où les sites web sont stockés, et il fonctionne un peu comme le disque dur de votre ordinateur. Une fois la requête reçue, le serveur récupère le site web et renvoie les bonnes données à votre ordinateur. Ce qui est incroyable, c’est que tout cela se passe en seulement quelques secondes !
+
+5. Que pouvez-vous faire en ligne ?
+
+Il n’y a presque aucune limite à ce que vous pouvez faire en ligne. Internet permet de trouver rapidement des informations, de communiquer avec des personnes du monde entier, de gérer ses finances, de faire ses achats à domicile, d’écouter de la musique, de regarder des vidéos, et bien plus encore. Voyons quelques-unes des façons dont Internet est le plus couramment utilisé aujourd’hui.
+
+
+Trouver des informations en ligne
+Avec des milliards de sites web en ligne aujourd’hui, il y a beaucoup d’informations sur Internet. Les moteurs de recherche facilitent la recherche de ces informations. Il vous suffit de taper un ou plusieurs mots-clés, et le moteur de recherche cherchera des sites web pertinents.
+
+Par exemple, supposons que vous cherchez une nouvelle paire de chaussures. Vous pouvez utiliser un moteur de recherche pour découvrir différents types de chaussures, obtenir des indications pour un magasin de chaussures à proximité, ou même savoir où les acheter en ligne !
